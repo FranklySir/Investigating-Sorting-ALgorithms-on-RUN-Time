@@ -1,0 +1,14 @@
+C:\Users\kolwe\Downloads\WRAV201\SelectionSort Iterative\SelectionSort Iterative\bin\Debug\SelectionSort Iterative.exe.config
+C:\Users\kolwe\Downloads\WRAV201\SelectionSort Iterative\SelectionSort Iterative\bin\Debug\SelectionSort Iterative.exe
+C:\Users\kolwe\Downloads\WRAV201\SelectionSort Iterative\SelectionSort Iterative\bin\Debug\SelectionSort Iterative.pdb
+C:\Users\kolwe\Downloads\WRAV201\SelectionSort Iterative\SelectionSort Iterative\obj\Debug\SelectionSort Iterative.csprojAssemblyReference.cache
+C:\Users\kolwe\Downloads\WRAV201\SelectionSort Iterative\SelectionSort Iterative\obj\Debug\SelectionSort Iterative.csproj.CoreCompileInputs.cache
+C:\Users\kolwe\Downloads\WRAV201\SelectionSort Iterative\SelectionSort Iterative\obj\Debug\SelectionSort Iterative.exe
+C:\Users\kolwe\Downloads\WRAV201\SelectionSort Iterative\SelectionSort Iterative\obj\Debug\SelectionSort Iterative.pdb
+C:\Users\kolwe\Downloads\WRAV201\Selection Sort Files\SelectionSort Iterative\SelectionSort Iterative\bin\Debug\SelectionSort Iterative.exe.config
+C:\Users\kolwe\Downloads\WRAV201\Selection Sort Files\SelectionSort Iterative\SelectionSort Iterative\bin\Debug\SelectionSort Iterative.exe
+C:\Users\kolwe\Downloads\WRAV201\Selection Sort Files\SelectionSort Iterative\SelectionSort Iterative\bin\Debug\SelectionSort Iterative.pdb
+C:\Users\kolwe\Downloads\WRAV201\Selection Sort Files\SelectionSort Iterative\SelectionSort Iterative\obj\Debug\SelectionSort Iterative.csprojAssemblyReference.cache
+C:\Users\kolwe\Downloads\WRAV201\Selection Sort Files\SelectionSort Iterative\SelectionSort Iterative\obj\Debug\SelectionSort Iterative.csproj.CoreCompileInputs.cache
+C:\Users\kolwe\Downloads\WRAV201\Selection Sort Files\SelectionSort Iterative\SelectionSort Iterative\obj\Debug\SelectionSort Iterative.exe
+C:\Users\kolwe\Downloads\WRAV201\Selection Sort Files\SelectionSort Iterative\SelectionSort Iterative\obj\Debug\SelectionSort Iterative.pdb

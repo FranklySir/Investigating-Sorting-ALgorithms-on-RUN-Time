@@ -1,0 +1,21 @@
+C:\Users\kolwe\Downloads\WRAV201\SelectionSort Recursive\bin\Debug\SelectionSort Recursive.exe.config
+C:\Users\kolwe\Downloads\WRAV201\SelectionSort Recursive\bin\Debug\SelectionSort Recursive.exe
+C:\Users\kolwe\Downloads\WRAV201\SelectionSort Recursive\bin\Debug\SelectionSort Recursive.pdb
+C:\Users\kolwe\Downloads\WRAV201\SelectionSort Recursive\obj\Debug\SelectionSort Recursive.csprojAssemblyReference.cache
+C:\Users\kolwe\Downloads\WRAV201\SelectionSort Recursive\obj\Debug\SelectionSort Recursive.csproj.CoreCompileInputs.cache
+C:\Users\kolwe\Downloads\WRAV201\SelectionSort Recursive\obj\Debug\SelectionSort Recursive.exe
+C:\Users\kolwe\Downloads\WRAV201\SelectionSort Recursive\obj\Debug\SelectionSort Recursive.pdb
+C:\Users\kolwe\Downloads\WRAV201\Selection Sort Files\SelectionSort Recursive\bin\Debug\SelectionSort Recursive.exe.config
+C:\Users\kolwe\Downloads\WRAV201\Selection Sort Files\SelectionSort Recursive\bin\Debug\SelectionSort Recursive.exe
+C:\Users\kolwe\Downloads\WRAV201\Selection Sort Files\SelectionSort Recursive\bin\Debug\SelectionSort Recursive.pdb
+C:\Users\kolwe\Downloads\WRAV201\Selection Sort Files\SelectionSort Recursive\obj\Debug\SelectionSort Recursive.csprojAssemblyReference.cache
+C:\Users\kolwe\Downloads\WRAV201\Selection Sort Files\SelectionSort Recursive\obj\Debug\SelectionSort Recursive.csproj.CoreCompileInputs.cache
+C:\Users\kolwe\Downloads\WRAV201\Selection Sort Files\SelectionSort Recursive\obj\Debug\SelectionSort Recursive.exe
+C:\Users\kolwe\Downloads\WRAV201\Selection Sort Files\SelectionSort Recursive\obj\Debug\SelectionSort Recursive.pdb
+C:\Users\kolwe\Downloads\Finished Modules\WRAV201\Selection Sort Files\SelectionSort Recursive\bin\Debug\SelectionSort Recursive.exe.config
+C:\Users\kolwe\Downloads\Finished Modules\WRAV201\Selection Sort Files\SelectionSort Recursive\bin\Debug\SelectionSort Recursive.exe
+C:\Users\kolwe\Downloads\Finished Modules\WRAV201\Selection Sort Files\SelectionSort Recursive\bin\Debug\SelectionSort Recursive.pdb
+C:\Users\kolwe\Downloads\Finished Modules\WRAV201\Selection Sort Files\SelectionSort Recursive\obj\Debug\SelectionSort Recursive.csproj.AssemblyReference.cache
+C:\Users\kolwe\Downloads\Finished Modules\WRAV201\Selection Sort Files\SelectionSort Recursive\obj\Debug\SelectionSort Recursive.csproj.CoreCompileInputs.cache
+C:\Users\kolwe\Downloads\Finished Modules\WRAV201\Selection Sort Files\SelectionSort Recursive\obj\Debug\SelectionSort Recursive.exe
+C:\Users\kolwe\Downloads\Finished Modules\WRAV201\Selection Sort Files\SelectionSort Recursive\obj\Debug\SelectionSort Recursive.pdb
